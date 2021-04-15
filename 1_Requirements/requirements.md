@@ -40,6 +40,22 @@ In case my game will be successful, I can add advertisements within it and start
 There are many similar game ideas with mine on the web. As a result I can be accused for copyright. As a result I have to be very careful and make sure that I won’t use assets and ideas that any other games have. 
 
 A player will choose one from Stone, Paper or Scissor and similar computer will choose one and accordingly based on the dominating element winner will be choosen.
+  # 4W's and 1H
+  ## Who
+  ---
+  People of all age group can play.
+  ## What
+  ---
+  Digital implementation of game(STone Paper & Scissor) which is used to play with hands.
+  ## When
+  ---
+  In situations of stress and pressure for adults or for fun or in learning stages for children.
+  ## Where
+  ---
+  Any place.
+  ## How
+  ---
+  Using hands or digitally using 3 characters-'s', 'p', 'c'.
   # Detailed Requirements
   ## High level requirements
   |  ID|Description|Status|
