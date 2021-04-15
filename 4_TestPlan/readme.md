@@ -2,7 +2,9 @@
 
 | Test ID | Description                           | Exp I/P                                               | Exp O/P                                         | Actual Out | Type Of Test |
 |---------|---------------------------------------|-------------------------------------------------------|-------------------------------------------------|------------|--------------|
-| H_01    | Test to find the winner of Game       |2 Characters telling choice of player and computer     | Integer value 0, 1 or -1                        | Pass       | Technical    |
+| H_01    | Test to find the winner of Game       |2 Characters telling choice 
+of player and computer     | Integer value 0, 
+1 or -1                        | Pass       | Technical    |
 
 
 ##  Low level test plan
