@@ -7,7 +7,7 @@
 
 ##  Low level test plan
 
-| Test ID | Description                           | Exp I/P                                               | Exp O/P                                         | Actual Out | Type Of Test |
+| Test ID | Description                           | Exp I/P                                                      | Exp O/P                                               | Actual Out | Type Of Test |
 |---------|---------------------------------------|-------------------------------------------------------|-------------------------------------------------|------------|--------------|
 | L_01    | To check integer passing by player 1  | Integer                                               | Same Integer                                    | Pass       | Technical    |
       
