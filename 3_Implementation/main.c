@@ -35,7 +35,7 @@ return player1;
 }
 
 
-
+// main function
 int main()
 {
     int choose_game;               //Let's you choose the game
@@ -50,6 +50,7 @@ int main()
     srand(time(0));                //Generating random number  
     int number = rand()%30 + 1;
 
+    //code for Stone Paper Scissor game
     if(choose_game==1)
     {
       if(number<10)
@@ -85,14 +86,15 @@ int main()
       printf("You chose %c and computer chose %c. ", you, comp);
     }
 
+    //code for Guess The Number
     else if(choose_game==2)
     {
-      long int random_no,guess_no,attempt=1,player1;
+      long int random_no,guess_no,attempt=1,player1;  // initialising variables of Guess The Number game 
 
       printf("Player1 enter a number.\n ");
       scanf("%ld",&player1);
   
-      random_no=rangeOfNumber(player1); 
+      random_no=rangeOfNumber(player1);              // Function calling
  
       do{   
       printf("player2 guess the number\n");
