@@ -1,2 +1,0 @@
-# Applied SDLC using C language
-![depos---itphotos_41642213-stock-illustration-snakes-and-ladders-board-game](https://user-images.githubusercontent.com/81506807/114458255-99d6ff00-9bfc-11eb-9c77-ec3c8c6305ec.jpg)
