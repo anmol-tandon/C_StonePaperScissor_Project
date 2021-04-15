@@ -1,4 +1,5 @@
 # Game-using-C
+(https://user-images.githubusercontent.com/75445117/114932074-b4a3b080-9e54-11eb-8725-e19ecb170607.png)
 
 1. StonePaperScissor
 Rock Paper Scissor (which is also called Stone Paper Scissor) is a hand game and played between two people, in which each player simultaneously forms one of three shapes. The winner of the game is decided as per the below rules:
