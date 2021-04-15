@@ -11,4 +11,4 @@
   This function consists of if-else statements that will compare the choice of user and computer. If the user wins then it will return 1. Otherwise, if the computer wins then it     will return -1. If it is a tie, it will return 0.
 
 # 2. GuessTheNumber
-  Its is a simple guessing game where Player 1 enters a number and Player 2 has to guess the number in minimal attempts.
+  It is a simple guessing game where Player 1 enters a number and Player 2 has to guess the number in minimal attempts.
