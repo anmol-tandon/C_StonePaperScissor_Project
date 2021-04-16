@@ -1,4 +1,14 @@
 # Applied SDLC using C Language
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+
+
 # 1. StonePaperScissor 
   It is basically a hand game and played between two people, in which each player simultaneously forms one of three shapes. The winner of the game is decided as per the below rules:
   Rock vs Paper -> Paper wins. Rock vs Scissor -> Rock wins. Paper vs Scissor -> Scissor wins. In this game, the user will be asked to make choice and according to the choice of     user and computer and then the result will be displayed along with the choices of both computer and user.
